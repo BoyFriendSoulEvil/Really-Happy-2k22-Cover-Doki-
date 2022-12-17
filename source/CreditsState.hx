@@ -81,6 +81,8 @@ class CreditsState extends MusicBeatState
 		#end
 
 		var pisspoop:Array<Array<String>> = [ //Name - Icon name - Description - Link - BG Color
+                        ['FNF MOD PORTER'],
+                        ['BoyFriendSoulEvil', 'boyfriendsoulevil', 'The Mod Porter', 'https://youtube.com/@BoyFriendSoulEvil', 'FFFFFF'],
                         ['Psych Engine Android Port'],
                         ['idklool (or Boyfriend FNF idc)', 'nothing', 'Hi I ported the Psych Engine', 'youtube.com/c/BoyfriendFNF', 'FFFFFF'],
                         ['Dxgamer', 'dxgamer', 'Coder Help', 'https://youtube.com/c/Dxgamer7405', 'FFFFFF'],
