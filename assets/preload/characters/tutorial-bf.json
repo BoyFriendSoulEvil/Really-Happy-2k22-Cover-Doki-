@@ -1,154 +1,154 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
-				49,
+				51,
 				-16
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "left"
+			"fps": 24,
+			"name": "left",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "idle",
-			"indices": [],
-			"name": "idle"
+			"fps": 24,
+			"name": "idle",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-18,
 				-47
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "down"
+			"fps": 24,
+			"name": "down",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				41,
 				33
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singUP",
-			"indices": [],
-			"name": "up"
+			"fps": 24,
+			"name": "up",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				13,
 				-9
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "right"
+			"fps": 24,
+			"name": "right",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				40,
 				-11
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singLEFTmiss",
-			"indices": [],
-			"name": "mleft"
+			"fps": 24,
+			"name": "mleft",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-4,
 				-26
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singDOWNmiss",
-			"indices": [],
-			"name": "mdown"
+			"fps": 24,
+			"name": "mdown",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				34,
 				27
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singUPmiss",
-			"indices": [],
-			"name": "mup"
+			"fps": 24,
+			"name": "mup",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-23,
 				-8
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singRIGHTmiss",
-			"indices": [],
-			"name": "mright"
+			"fps": 24,
+			"name": "mright",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				134,
 				-60
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "firstDeath",
-			"indices": [],
-			"name": "death"
+			"fps": 24,
+			"name": "death",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				132,
 				-54
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "deathConfirm",
-			"indices": [],
-			"name": "confirm death"
+			"fps": 24,
+			"name": "confirm death",
+			"indices": []
 		},
 		{
+			"loop": true,
 			"offsets": [
 				132,
 				-60
 			],
-			"loop": true,
-			"fps": 24,
 			"anim": "deathLoop",
-			"indices": [],
-			"name": "loop death"
+			"fps": 24,
+			"name": "loop death",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				3
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "hey",
-			"indices": [],
-			"name": "hey"
+			"fps": 24,
+			"name": "hey",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
 	"image": "characters/bf",
 	"position": [
-		100,
-		260
+		1480,
+		850
 	],
 	"healthicon": "icon-bf-remastered",
 	"flip_x": true,

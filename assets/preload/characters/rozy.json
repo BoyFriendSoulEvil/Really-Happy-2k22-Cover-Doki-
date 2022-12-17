@@ -1,0 +1,67 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-15
+			],
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-15
+			],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-2,
+				-18
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "sad",
+			"indices": [],
+			"name": "cry"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				-21
+			],
+			"anim": "eye",
+			"fps": 20,
+			"name": "eye",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/gfg",
+	"position": [
+		-80,
+		20
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		180,
+		13,
+		55
+	],
+	"camera_position": [
+		-10,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

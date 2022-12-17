@@ -193,16 +193,16 @@
 		0,
 		0
 	],
-	"healthicon": "icon-bf2",
+	"healthicon": "icon-nah",
 	"flip_x": false,
 	"healthbar_colors": [
-		49,
-		176,
-		209
+		161,
+		161,
+		161
 	],
 	"camera_position": [
-		0,
-		0
+		-360,
+		-60
 	],
 	"sing_duration": 4,
 	"scale": 1
