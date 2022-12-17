@@ -1,0 +1,1 @@
+Switches arrows back after using "Arrow Switch" Event
